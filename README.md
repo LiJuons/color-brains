@@ -1,5 +1,5 @@
 ## AI brain for picking text color
 
-AI that determines if color is dark or white and sets text color according to the result.
+#AI that determines if color is dark or white and sets the text color accordingly.
 
-Done with: React.js and Brain.js
+_Done with: React.js and Brain.js_
