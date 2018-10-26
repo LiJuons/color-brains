@@ -5,6 +5,7 @@
   "dependencies": {
     "brain.js": "^1.4.2",
     "react": "^16.6.0",
+    "react-color": "^2.14.1",
     "react-dom": "^16.6.0",
     "react-scripts": "2.0.5"
   },
