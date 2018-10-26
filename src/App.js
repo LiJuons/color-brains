@@ -26,13 +26,13 @@ class App extends Component {
   }
 
   handleColor = (color, event) => {
+
     const rgb = {
       r: color.rgb.r/255,
       g: color.rgb.g/255,
       b: color.rgb.b/255
     };
     const result = brain.likely(rgb, this.network);
-    console.log(rgb, result);
 
     this.setState({
       pickedColor: color.hex,

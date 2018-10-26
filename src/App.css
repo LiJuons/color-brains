@@ -24,4 +24,5 @@
 .colorPicker {
   align-self: center;
   margin: 7% 0 3% 0;
+  touch-action: none;
 }
